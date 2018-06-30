@@ -1,0 +1,3 @@
+GET
+
+https://sujiefs.com//api/receiverInfo/saveOrUpdate?openId=undefined&address=%7B%22receiverName%22%3A%221%22%2C%22mobile%22%3A%221%22%2C%22addressDetail%22%3A%221%22%7D&isDef=1&province=&city=&area=&sign=fcecd6e3715e459de0cde18a66ff2e5b&time=20180630190434
